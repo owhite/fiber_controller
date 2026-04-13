@@ -2,7 +2,7 @@
 
 ### **Collision protection**
 
-* ### Raytools BM110/BM111 "Collision Protection" Kit
+* Raytools BM110/BM111 "Collision Protection" Kit
 
 * BM111 have a specific internal magnetic sensor and a sacrificial ceramic assembly, but Raytools also offers an external 3D collision mount for high-end machines.  
 * [Raytools TRA Nozzle Assembly](https://raytools.vn/product/raytools-original-tra-nozzle-assembly-for-bm111-bm110-laser-cutting-head/)  
