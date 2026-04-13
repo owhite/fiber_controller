@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name laser_card-rescue)(type Legacy)(uri ${KIPRJMOD}/laser_card-rescue.lib)(options "")(descr ""))
+)
