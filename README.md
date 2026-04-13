@@ -7,8 +7,7 @@
 * BM111 have a specific internal magnetic sensor and a sacrificial ceramic assembly, but Raytools also offers an external 3D collision mount for high-end machines.  
 * [Raytools TRA Nozzle Assembly](https://raytools.vn/product/raytools-original-tra-nozzle-assembly-for-bm111-bm110-laser-cutting-head/)  
 * [Raytools 3d head sensor](https://www.amazon.com/Raytools-Head-Capacitive-Sensor-Connector/dp/B0FQ5VNJ7H?th=1) 
-
-### Sacrificial Ceramic Rings If a full magnetic mount is too bulky for your Z-axis design, you should rely on the ceramic ring. For 1.5kW, this is the standard point of failure. [Original Raytools Ceramic Rings (AliExpress)](https://www.aliexpress.com/i/4000780398952.html)
+* Sacrificial Ceramic Rings If a full magnetic mount is too bulky for your Z-axis design, you should rely on the ceramic ring. For 1.5kW, this is the standard point of failure. [Original Raytools Ceramic Rings (AliExpress)](https://www.aliexpress.com/i/4000780398952.html)
 
 FreeMascot 1064nm Safety Glasses
 
@@ -55,4 +54,4 @@ FreeMascot 1064nm Safety Glasses
 
 * ### [**https://alleriastore.com/products/auxiliary-gas-control-system**](https://alleriastore.com/products/auxiliary-gas-control-system)
 
-* ### [Travis Mitchell](https://www.patreon.com/DIYfiberlaser) **patreon site has a bill of materials**
+* [Travis Mitchell](https://www.patreon.com/DIYfiberlaser) patreon site has a bill of materials
