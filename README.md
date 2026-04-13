@@ -52,6 +52,6 @@ FreeMascot 1064nm Safety Glasses
 
 ### **Gas control**
 
-* [**https://alleriastore.com/products/auxiliary-gas-control-system**](https://alleriastore.com/products/auxiliary-gas-control-system)
+* gas control [system](https://alleriastore.com/products/auxiliary-gas-control-system)
 
 * [Travis Mitchell](https://www.patreon.com/DIYfiberlaser) patreon site has a bill of materials
