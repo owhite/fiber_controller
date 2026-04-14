@@ -1030,7 +1030,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "laser_card.net",
-      "plot": "",
+      "plot": "../../Downloads/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
